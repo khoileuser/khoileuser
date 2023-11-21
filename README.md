@@ -1,8 +1,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Le Nguyen Khoi</h1></summary>
-    <p>Call me Khoi<p>
+    <summary><h1 style="display: inline-block">Hi, I'm Le Nguyen Khoi</h1></summary>
+    <p>You can call me Khoi<p>
   </ul>
 </div>
 
