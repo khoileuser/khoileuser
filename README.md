@@ -12,9 +12,9 @@
 
 - A kinda Full-Stack Developer
 - Passionate about Automation, dealt with Web Crawling and Game Bot
-- Prior experience of AI inferences for Image Generation/Recognition, LLM
-- Personal website [link](https://khoileuser.github.io/)
-- I’m currently studying at RMIT University Vietnam
+- Prior experience in AI inferences for Image Generation/Recognition, LLM
+- I’m currently an IT student of RMIT University Vietnam
+- [Personal website](https://khoileuser.github.io/)
 
 <br>
 
