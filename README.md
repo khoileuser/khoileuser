@@ -35,7 +35,7 @@
 - **Frameworks**:
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express,mongodb,mysql,postgres,docker,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb,bootstrap,docker&perline=14" />
   </a>
 
   <br>
