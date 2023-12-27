@@ -35,7 +35,7 @@
 - **Frameworks**:
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb,bootstrap,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,bootstrap,django,postgres,mysql,fastapi,flask,selenium,pytorch&perline=14" />
   </a>
 
   <br>
@@ -43,7 +43,7 @@
 - **Tools**:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postman,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,cloudflare,heroku,docker,bots,postman,linux,bash,blender,ps&perline=14" />
   </a>
   
 </p>
