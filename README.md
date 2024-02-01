@@ -14,6 +14,7 @@
 - Passionate about Automation, dealt with Web Crawling and Game Bot
 - Prior experience in AI inferences for Image Generation/Recognition, LLM
 - I’m currently an IT student of RMIT University Vietnam
+- This account is for doing school projects
 
 <br>
 
