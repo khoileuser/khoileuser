@@ -14,7 +14,6 @@
 - Passionate about Automation, dealt with Web Crawling and Game Bot
 - Prior experience in AI inferences for Image Generation/Recognition, LLM
 - I’m currently an IT student of RMIT University Vietnam
-- [Personal website](https://khoileuser.github.io/)
 
 <br>
 
