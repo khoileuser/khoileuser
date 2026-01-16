@@ -1,2 +1,11 @@
-# About Me
-Kinda Full-Stack Developer<br>Automation, Web Crawling and Game Bot<br>AI inferences for Image Generation/Recognition, LLM<br>IT student of RMIT University Vietnam<br>This account is for school projects<br>Side project account: https://github.com/faberuser
+Kinda Full-Stack Dev, Cloud, DevOps, SysOps
+
+Automation, Web Crawling and Game Bot
+
+AI inferences Image Generation/Recognition, LLM
+
+IT student of RMIT University Vietnam
+
+This account is for school projects
+
+Side project account: https://github.com/faberuser
